@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-[https://github.com/your-username/generational-bread.git]
+git clone https://github.com/your-username/homemade-bread-shop.git
 
 2. Navigate to the project directory:
 cd homemade-bread-shop
